@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       
-      <Navbar title="Text Utlis" aboutText="About TextUtlis" mode={mode} toggleMode={toggleMode}></Navbar>
+      <Navbar title="Text Utlis" aboutText="Website is under constraction,wait for more features...." mode={mode} toggleMode={toggleMode}></Navbar>
       {/* <Navbar ></Navbar> */}
       <div className="container my-5">
          <TextForm heading="Enter The Text To Analyze Below"/>
