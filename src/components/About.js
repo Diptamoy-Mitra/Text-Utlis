@@ -52,7 +52,7 @@ export default function About() {
             </h2>
             <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
               <div className="accordion-body" style={myStyle}>
-                <strong> Its use as a words counter, read time, chaaracters counter etc</strong>
+                <strong> Its use as a words counter, read time, characters counter etc</strong>
               </div>
             </div>
           </div>
