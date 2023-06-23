@@ -51,7 +51,7 @@ function App() {
 
           <Routes>
             <Route exact path="/" element={<TextForm showAlert={showAlert} heading="Enter The Text To Analyze Below" mode={mode} />} />
-            <Route path="/about" element={ <About ></About>}/>
+            <Route path="/about" element={ <About mode={mode}></About>}/>
           </Routes>
         </div>
       </Router>
